@@ -1,5 +1,7 @@
-# Real Exchange Rate and Current Account Balance: Empirical Evidence from Bangladesh (1976-2020)
+# Real Exchange Rate Sensitivity of Current Account Balance: Empirical Evidence from Bangladesh
+## Md. Azmeer Rahman Sorder
 
-This paper aims to study the effect of real exchange rate, along with and in presence of other appropriate variables, on current accounts balance of Bangladesh on the basis of data from 1976 to 2020. The Cochrane-Orcutt AR(1) hierarchical multiple regression analysis, using a new ad hoc proxy real exchange rate variable constructed with nominal exchange rate, home and world GDP deflator data, suggests that there is a negative and statistically significant relationship between real exchange rate and current accounts balance. The result suggests maintaining a stable current accounts balance requires extremely close monitoring and management of government into the foreign exchange market and domestic commodity markets.
+### Abstract 
+This study aims to measure the real exchange rate sensitivity of the current accounts balance of Bangladesh based on yearly data from 1976 to 2020. We deploy a constructed proxy variable based on the theoretical basis to substitute for real exchange rate growth. Using Vector Error Correction Model (VECM), we find a non-significant close to zero long-run impact of real exchange rate on current accounts balance. However, the short-run impact is highly significant and positive. The analysis suggests an extremely inelastic, positive, and non-significant long-run relationship between the real exchange rate and current accounts balance. The forecasts from VECM estimates put the COVID-19 recovery by the economy within 2030. The study proposes some recommendations, including improving institutional quality, export diversification, independent monetary policy setting, and a floating exchange rate regime.
 
-Find the Stata do file and the data attached with. The subsequent versions will improve on the time series econometric analysis. 
+#### Note: Data and replication code are available. 
